@@ -1,0 +1,12 @@
+@import url(../__logo/_polka/recources__logo_polka.css);
+@import url(../__logo/_strelka/recources__logo_strelka.css);
+@import url(../__logo/_n1/recources__logo_n1.css);
+@import url(../__logo/_arzamas/recources__logo_arzamas.css);
+
+.recources__logo {
+    width: 270px;
+    height: 38px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

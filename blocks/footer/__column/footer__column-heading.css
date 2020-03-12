@@ -1,0 +1,7 @@
+@import url(./_content/footer__column_content_copyright.css);
+.footer__column-heading {
+    margin: 0;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
