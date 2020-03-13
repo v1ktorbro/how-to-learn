@@ -1,12 +1,3 @@
-@keyframes header__square-pic {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}
-
 .header__square-pic {
     background-color: #2F80ED;
     width: 568px;
